@@ -8,10 +8,10 @@ print((list_env.append("jai ho")))
 print(my_list)
 
 
-# list_env.insert(1,"testing")
+list_env.insert(1,"testing")
 list_env.reverse()
-# list_env.extend("aditya")
-# list_env.sort()
+list_env.extend("aditya")
+list_env.sort()
 
 print(list_env)
 
