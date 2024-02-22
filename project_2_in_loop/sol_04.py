@@ -1,5 +1,5 @@
 
-num = 10
+num = 12
 
 factorial = 1
 
