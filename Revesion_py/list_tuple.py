@@ -13,27 +13,27 @@ for i in list_OF_envs:
     print(list_OF_envs)
 
 
-list_of_num = [1,2,3,-2,-1,4,99,22,44,7]
+# list_of_num = [1,2,3,-2,-1,4,99,22,44,7]
 
-for i in range(len(list_of_num)):
-    for j in  range(len(list_of_num)):
-        if list_of_num[i] > list_of_num[j]:
-            ad=list_of_num[i]
-            list_of_num[i] =list_of_num[j]
-            list_of_num[j]=ad
+# for i in range(len(list_of_num)):
+#     for j in  range(len(list_of_num)):
+#         if list_of_num[i] > list_of_num[j]:
+#             ad=list_of_num[i]
+#             list_of_num[i] =list_of_num[j]
+#             list_of_num[j]=ad
 
-print(list_of_num)
+# print(list_of_num)
 
 
-list_of_num = [1,2,3,-2,-1,4,99,22,44,7]
+# list_of_num = [1,2,3,-2,-1,4,99,22,44,7]
 
-for i in range(len(list_of_num)):
-    for j in  range(len(list_of_num)):
-        if list_of_num[i] > list_of_num[j]:
-            ad=list_of_num[i]
-            list_of_num[i] =list_of_num[j]
-            list_of_num[j]=ad
+# for i in range(len(list_of_num)):
+#     for j in  range(len(list_of_num)):
+#         if list_of_num[i] > list_of_num[j]:
+#             ad=list_of_num[i]
+#             list_of_num[i] =list_of_num[j]
+#             list_of_num[j]=ad
 
-print(list_of_num)
+# print(list_of_num)
         
         
