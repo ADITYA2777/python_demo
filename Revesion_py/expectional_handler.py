@@ -54,10 +54,10 @@ except KeyError:
     print("KeyError: Key not found")
 
     # Trying to convert a string to an integer, but the string is not a valid integer
-# try:
-#     value = int("hello")
-# except ValueError:
-#     print("ValueError: Invalid literal for int()")
+try:
+    value = int("hello")
+except ValueError:
+    print("ValueError: Invalid literal for int()")
 
 
 
