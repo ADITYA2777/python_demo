@@ -7,7 +7,7 @@ while num > 0:
     num -= 1
 print("Factorial number : ",factorial)
 
-# while num > 0:
-#     factorial *= num 
-#     num -= 1
-# print("Factorial number : ",factor)
+while num > 0:
+    factorial *= num 
+    num -= 1
+print("Factorial number : ",factor)
